@@ -329,7 +329,7 @@ class StickyGroupedListViewState<T, E>
             }
           }
         }
-      
+  }
 
   List<T> _sortElements() {
     List<T> elements = widget.elements;
